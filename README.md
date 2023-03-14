@@ -1,7 +1,7 @@
 ###   Hi! Welcome to my Github profile 👋
 
 
- 🌱 I’m currently learning Kotlin and Jetpack Compose.
+ 🌱 I’m currently learning Kotlin and Swift.
  
  👯 I'm currently the Team Lead at Google Developer Student Clubs at Kocaeli university.
  
