@@ -9,5 +9,7 @@
  
  📫 How to reach me: doganuraydeniz@outlook.com
  
+ 💬 Ask me about making cheesecake :)
+ 
  ⚡ I enjoy skating and playing the violin :)
 
