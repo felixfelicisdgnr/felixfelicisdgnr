@@ -1,7 +1,7 @@
 ###   Hi! Welcome to my Github profile 👋
 
 
- 🌱 I’m currently learning Kotlin and Swift.
+ 🌱 I’m currently learning Kotlin and Jetpack Compose.
  
  👀 I’m interested image processing and deep learning.
  
