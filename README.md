@@ -3,7 +3,7 @@
 
  🌱 I’m currently working as an Android Developer at Verisoft.
  
- 👀 I’m interested deep learning and Image Processing.
+ 👀 I’m interested Deep Learning and Image Processing.
  
  👯 I was the Team Lead of Google Developer Student Clubs at Kocaeli University from 2022 to 2023.
  
