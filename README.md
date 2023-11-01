@@ -1,7 +1,7 @@
 ###   Hi! Welcome to my Github profile 👋
 
 
- 🌱 I’m currently working Android Developer at Verisoft.
+ 🌱 I’m currently working as an Android Developer at Verisoft.
  
  👀 I’m interested deep learning and Image Processing.
  
